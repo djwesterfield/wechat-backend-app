@@ -2,7 +2,7 @@
 How to install Wechat's backend platform as a desktop app
 
 
-1. Download [Node.js] (https://nodejs.org/en/download/)
+1. Download [Node.js](https://nodejs.org/en/download/)
 2. Restart your computer
 3. Open Node.js 's command prompt and install Nativefier.
 ```
