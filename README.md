@@ -11,4 +11,5 @@ npm install nativefier -g
 4. Create a wrapper for Asana's web app. Enter the following in Node.js
 ```
 nativefier --name "Wechat" "https://mp.weixin.qq.com/"
+```
 5. Pin the app to your taskbar!
