@@ -8,7 +8,7 @@ How to install Wechat's backend platform as a desktop app
 ```
 npm install nativefier -g
 ```
-4. Create a wrapper for Asana's web app. Enter the following in Node.js
+4. Create a wrapper for Wechat's web app. Enter the following in Node.js
 ```
 nativefier --name "Wechat" "https://mp.weixin.qq.com/"
 ```
